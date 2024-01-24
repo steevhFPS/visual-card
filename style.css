@@ -1,0 +1,51 @@
+#container{
+    margin: 0px;
+    padding: 0px;
+    width: 400px;
+    height: 200px;
+    border-radius: 8px;
+    background-image: url(imagens/backgorund.png);
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    box-shadow: 3px 3px 6px rgb(129, 129, 129);
+}
+
+body{
+    background-color: rgb(215, 231, 245);
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+
+
+#nome{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+#redes-sociais{
+    padding-left: 20px;
+}
+
+#instagram{
+    list-style-image: url(imagens/Insta.png);
+
+}
+
+#twitter{
+    list-style-image: url(imagens/Twitter.png);
+
+}
+
+#youtube{
+    list-style-image: url(imagens/Youtube.png);
+
+}
